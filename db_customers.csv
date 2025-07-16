@@ -1,0 +1,201 @@
+customer_id,name,age,location,account_type,signup_date
+1,Allison Hill,56,Lake Thomas,Current,2023-07-20
+2,Noah Rhodes,69,Westtown,Business,2021-02-23
+3,Angie Henderson,46,West Jeffreybury,Savings,2023-11-30
+4,Daniel Wagner,32,Elizabethstad,Current,2020-11-23
+5,Cristian Santos,60,Transtad,Savings,2024-03-31
+6,Connie Lawrence,25,Barajasside,Savings,2020-09-11
+7,Abigail Shaffer,38,Michaelmouth,Business,2024-06-12
+8,Gina Moore,56,Kristopherbury,Current,2021-03-13
+9,Gabrielle Davis,36,Lake Jamesville,Business,2023-03-14
+10,Ryan Munoz,40,East Javier,Business,2025-06-07
+11,Monica Herrera,28,Hillshire,Current,2024-03-09
+12,Jamie Arnold,28,Tinaborough,Savings,2025-05-31
+13,Lisa Hensley,41,Jeremyburgh,Savings,2023-12-23
+14,Michele Williams,53,Alexisside,Current,2024-02-02
+15,Dylan Miller,57,West Brandon,Savings,2022-12-31
+16,Brian Ramirez,41,New Kellyberg,Current,2021-07-07
+17,Holly Wood,20,Garciatown,Current,2023-12-25
+18,Derek Zuniga,39,Taylormouth,Business,2020-09-17
+19,Lisa Jackson,19,Jackton,Current,2023-04-20
+20,Carla Gray,41,Shelleyfort,Business,2021-12-30
+21,Margaret Hawkins DDS,61,Port Cameronfort,Savings,2024-06-13
+22,Patty Perez,47,New Crystalton,Savings,2023-08-13
+23,Ethan Adams,55,East Lisa,Savings,2021-04-14
+24,Tommy Walter,19,Christopherbury,Savings,2024-04-01
+25,Matthew Foster,38,New Kathybury,Business,2021-06-08
+26,Judy Baker,50,Hayesmouth,Savings,2022-08-09
+27,Justin Baker,29,Michellechester,Current,2024-03-29
+28,Stephanie Ross,39,Ashleyton,Current,2023-12-11
+29,Zachary Hicks,61,Port Jaredborough,Current,2024-12-28
+30,Anthony Rodriguez,42,Donnaburgh,Business,2021-03-16
+31,Rebecca Henderson,66,East Andrea,Savings,2023-11-26
+32,James Ferrell,44,North Ricky,Savings,2023-03-05
+33,Tricia Valencia,59,Carterbury,Savings,2023-06-04
+34,Nathan Maldonado,45,Jasminemouth,Business,2022-06-03
+35,Debra Davidson,33,Lake Jesusview,Current,2023-05-15
+36,Jeffrey Chavez,32,South Danny,Current,2021-12-19
+37,Sherri Baker,64,Lake Edward,Savings,2021-03-09
+38,Cassandra Gaines,68,Margaretland,Current,2024-11-17
+39,Elizabeth Fowler,61,East Laurashire,Current,2021-07-04
+40,Brittany Farmer,69,Scottmouth,Business,2025-01-18
+41,Paula Moreno,20,Hollyview,Business,2024-11-15
+42,Fred Smith,54,Kimton,Business,2022-03-09
+43,Sherry Decker,68,Navarroview,Business,2023-07-05
+44,Anthony Humphrey,24,North Jeremyshire,Savings,2023-07-10
+45,Angelica Tucker,38,Port Emilyview,Business,2021-10-16
+46,Philip Cannon,26,Port Katelynfort,Current,2022-07-19
+47,John Pierce,56,Moonburgh,Savings,2021-05-30
+48,Shane Henderson,35,Waltersfort,Current,2021-10-12
+49,Joshua Blair,21,South Michaelmouth,Current,2022-09-18
+50,Eric Carney,42,Elizabethburgh,Current,2022-03-19
+51,Jessica Holmes,31,Robertfort,Business,2022-01-05
+52,Danny Morgan,67,Elainefurt,Business,2021-11-01
+53,Crystal Robinson,26,South Christopherview,Savings,2021-03-06
+54,Mark Perez,43,Darrellfurt,Savings,2022-01-16
+55,Shannon Jones,19,Lake Mollymouth,Business,2024-09-27
+56,Michael Lewis,37,Brownhaven,Current,2024-06-25
+57,Timothy Duncan,45,Cindyfort,Savings,2025-05-01
+58,Richard Aguirre,64,Wolfborough,Business,2025-06-19
+59,Brent Jordan,24,Andreaport,Business,2024-05-09
+60,John Daniel,61,Gilmorefort,Business,2025-05-03
+61,Victoria Garcia,25,North Teresabury,Current,2023-04-15
+62,Gerald Hensley,64,West Andrea,Business,2023-03-24
+63,Connor West,52,Davisville,Business,2021-10-27
+64,Donald Wright,31,Valentineberg,Business,2024-04-11
+65,Jessica Callahan,34,Cantuport,Business,2021-02-12
+66,Amber Kidd,53,Robertfort,Savings,2024-07-10
+67,Tracy House,67,Sanchezside,Savings,2024-04-18
+68,Carol Tucker,57,South James,Business,2023-02-10
+69,James Brown,21,Port Chad,Current,2022-11-15
+70,William Baker,19,Morganhaven,Savings,2021-01-05
+71,Jordan Henderson,23,Loriport,Business,2023-07-13
+72,Whitney Peters,59,Maryshire,Savings,2024-11-07
+73,Brittney Phillips,21,Grimesmouth,Savings,2021-03-02
+74,Lauren Daniels,46,Reedside,Current,2023-03-06
+75,Amy Silva,35,Gibsonmouth,Business,2024-06-18
+76,Sarah Moore,43,Lake John,Business,2024-05-19
+77,Angela Lopez,61,Hallchester,Current,2020-11-08
+78,Megan Young,51,West Juliefurt,Current,2021-01-07
+79,Steve Sanchez,27,Mcneilberg,Business,2023-09-03
+80,Lisa Barnes,53,Hannaberg,Business,2022-12-23
+81,Kelly Donovan,31,Mollymouth,Current,2021-03-10
+82,Mike Allen,48,New Reneetown,Savings,2021-04-21
+83,Michael Evans,65,South Monica,Savings,2024-11-06
+84,Paul Jones,32,North Terrance,Current,2023-10-22
+85,Zachary Ferrell,25,Matthewfurt,Savings,2024-06-21
+86,Daniel Baker,31,Port Markside,Current,2025-06-22
+87,Shirley Suarez,40,Finleyfort,Savings,2025-04-02
+88,Christopher Bass,57,New Caseyport,Savings,2020-11-19
+89,Lisa Archer,38,Lake Christopher,Business,2024-05-12
+90,Aimee Montoya,33,Port Cynthiaville,Business,2025-05-26
+91,Matthew Mcmillan,62,Jacksonport,Savings,2022-02-19
+92,Brian Rodriguez,35,North Markton,Savings,2023-04-09
+93,Denise Jacobs,64,Michaelchester,Business,2024-07-31
+94,Christina Walters,41,East Amanda,Business,2024-10-19
+95,John Whitehead,43,East Gregory,Business,2021-10-26
+96,Anna Henderson,42,Harveybury,Current,2021-01-23
+97,Aaron Wise,62,Durhamberg,Savings,2024-05-14
+98,Deborah Figueroa,58,South Dana,Business,2021-06-01
+99,Jessica Smith,46,Scotttown,Savings,2023-06-17
+100,Stephen Mckee,32,Santanaside,Current,2021-04-03
+101,Sandra Aguilar,62,North Scott,Current,2024-10-29
+102,Cameron Parker,18,Vanessaport,Business,2022-01-02
+103,Rebecca Valencia,42,Vaughnmouth,Current,2020-11-13
+104,Christine Wright,24,Jamesfurt,Savings,2022-08-23
+105,Richard Henson,26,Rodriguezfurt,Business,2024-04-05
+106,Marc Moore,41,Baileyport,Savings,2024-04-10
+107,Sharon Cherry,18,Port Dominiqueview,Savings,2024-12-29
+108,Sierra Johnson,61,New Michelleton,Current,2024-12-25
+109,Evelyn Galvan,25,Wallport,Current,2021-11-20
+110,Sharon Cochran,41,New Laurie,Current,2023-08-19
+111,Richard Rodriguez,28,Lake James,Current,2023-09-16
+112,Shannon Walker,68,Ericaberg,Current,2022-12-10
+113,Julia Torres,34,Lake Debbieport,Business,2023-10-31
+114,Crystal Johnson,25,Johnsonstad,Savings,2024-01-06
+115,Garrett Lin,52,North Renee,Savings,2023-06-01
+116,Diana May,52,Julieburgh,Savings,2020-12-24
+117,William Herrera,50,East Kristin,Savings,2023-05-20
+118,Ashley Waller,22,Alyssaview,Current,2021-02-04
+119,Victor Baker,59,West Robin,Savings,2023-05-05
+120,Jeffrey Chandler,56,Coffeyport,Business,2021-05-04
+121,Larry Dixon,58,Lindamouth,Business,2025-04-13
+122,Kenneth Scott,45,East Karenbury,Savings,2023-10-29
+123,April Frost,24,Coffeyside,Savings,2022-12-14
+124,Michelle Harmon,26,Christopherfurt,Business,2022-09-05
+125,Helen Jones,25,West Amandamouth,Business,2021-10-25
+126,Erin Edwards,29,Emilyview,Current,2023-05-16
+127,Michelle Evans,51,Carsonstad,Business,2021-03-25
+128,Jason Powell,50,Lake Jesustown,Current,2025-06-29
+129,Cameron Fisher,65,Rosebury,Current,2021-09-27
+130,Megan Orr,40,Lake Madisonport,Current,2023-07-06
+131,Elizabeth Kelley,41,Wilsonton,Current,2023-03-05
+132,Dustin Jordan,54,West Wendyville,Current,2023-11-14
+133,Mary Marshall,52,East Paigeberg,Savings,2021-08-19
+134,Daniel Kennedy,61,Chavezside,Business,2021-04-04
+135,Rebecca Jackson,57,Matthewsberg,Current,2023-03-03
+136,Jose Schultz,39,Penafort,Business,2025-04-16
+137,Robert Potter,44,Crosbyview,Business,2023-09-28
+138,Courtney Gonzalez,52,Lake Mitchellmouth,Current,2023-05-01
+139,David Alvarez,18,Sampsonstad,Savings,2021-08-16
+140,Angel Perry,52,Lake Michaelstad,Current,2025-01-05
+141,Cheyenne Horton,54,South Joshuaville,Savings,2021-05-01
+142,David Douglas Jr.,64,Davisborough,Business,2024-02-20
+143,Patricia Rodriguez,31,North Kristinbury,Savings,2024-11-10
+144,Christopher Rubio,20,Port Anne,Savings,2023-08-13
+145,Amber Wright,18,Port Kathyborough,Savings,2020-09-09
+146,Joyce Solis,22,Port Molly,Business,2023-08-15
+147,Victoria Larson,43,Kimtown,Business,2023-03-01
+148,Stephanie Salazar,31,Micheleberg,Savings,2022-01-26
+149,Kathy Rivas,56,New John,Savings,2022-05-11
+150,Stephanie Manning,44,North Donna,Current,2023-06-11
+151,David Wright,26,East Alexisbury,Savings,2024-09-02
+152,Pamela Boyd,32,Alfredview,Current,2022-03-03
+153,Denise Jones,32,East Judyhaven,Savings,2022-06-18
+154,Devon Flores,43,Lake Brycemouth,Current,2021-09-15
+155,Brenda Hall,59,Williamville,Business,2021-11-08
+156,Michelle Brown,30,Gordonton,Savings,2021-03-11
+157,Joshua Perry,68,Stephentown,Savings,2023-01-19
+158,Jason Stein,49,South Melaniechester,Savings,2021-05-25
+159,Melissa Gates,56,South Jennifermouth,Savings,2024-11-08
+160,Jamie Smith,66,North Marcberg,Current,2025-02-16
+161,Paul Castaneda,69,East Joshuashire,Savings,2025-01-05
+162,Jennifer Adkins,49,Oscarhaven,Business,2020-11-09
+163,Lindsey Walker,21,Shawnchester,Business,2023-05-27
+164,Jeffrey Johnson,47,Port Jacquelineside,Savings,2021-08-26
+165,Michael Powell,54,South Shannon,Business,2023-09-28
+166,John Anderson,40,South Matthew,Savings,2021-11-06
+167,Alyssa Long,56,Rossville,Savings,2021-12-01
+168,Alyssa Day,62,Ronaldview,Business,2022-01-27
+169,Joel Williams,32,Stephaniefort,Savings,2021-12-11
+170,Daniel Murphy,60,North Marieland,Business,2024-04-04
+171,Jamie Walton,46,Davisstad,Current,2020-11-27
+172,Darlene Miller,53,New Brian,Savings,2024-01-12
+173,Joshua Cooke,30,Elizabethchester,Current,2023-08-20
+174,Matthew Harrington,49,Morganchester,Business,2022-07-22
+175,Nicole Herring,24,West Carolinestad,Current,2024-04-25
+176,Alex Hernandez,68,New Williamberg,Current,2022-12-17
+177,Michael Elliott,39,Walkerville,Business,2024-05-09
+178,Michael Wang,45,Meganstad,Current,2022-07-12
+179,Lawrence Adkins,19,Port Joshuabury,Current,2025-01-29
+180,Robert Oconnell,59,Bruceside,Business,2022-07-28
+181,Alexander Collins,62,New Sarahview,Current,2023-03-03
+182,Tina Sanders,23,East Joshuaport,Business,2024-07-11
+183,Angela Vaughn,45,Michaelburgh,Current,2022-03-09
+184,Ashley Barton,45,New Diane,Business,2023-08-31
+185,Lindsay Martinez,61,East Joycetown,Business,2025-05-22
+186,Dr. Hannah Patterson,61,Lake Alyssafurt,Current,2024-04-13
+187,Jonathan Peterson,37,Chavezburgh,Current,2024-06-18
+188,Samantha Garcia,47,Larrymouth,Current,2022-12-07
+189,Madison Poole,28,North Ericton,Savings,2023-10-14
+190,Jessica Gross,45,West Scottchester,Savings,2024-10-24
+191,Debra Morton,42,Lawsonchester,Savings,2025-01-08
+192,Karen Graham,56,Jasonhaven,Business,2024-02-05
+193,Debra Christian,50,West Russellport,Current,2021-11-30
+194,Angelica Keith,18,Roseport,Business,2022-03-27
+195,John Bishop,44,East Randallton,Savings,2021-09-17
+196,Allen Rosales,69,East Kevinborough,Current,2022-08-30
+197,Daniel Salinas,30,Port Jonathan,Business,2020-12-24
+198,Spencer Haynes,58,Davidfort,Current,2024-08-16
+199,Adam Vaughan,20,Thompsonfurt,Business,2023-09-11
+200,Nathan Freeman,56,New Angelica,Current,2025-04-02
